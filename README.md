@@ -1,9 +1,9 @@
-🎤 Voice-Controlled Reminder System
+🎤 Voice-Controlled Reminder System: 
 The Voice-Controlled Reminder System is an intelligent task management application designed to simplify daily routines through natural voice interaction. Unlike traditional reminder applications that rely heavily on manual input, this system enables users to create, manage, and receive reminders completely hands-free using speech recognition, natural language processing (NLP), and text-to-speech technologies.
 
 Acting as a digital personal assistant, the application supports personal, academic, and professional task management while emphasizing accessibility, security, and reliability.
 
-🎯 Project Objectives
+🎯 Project Objectives:
 - Enable hands-free task management using voice commands  
 - Provide natural interaction through Speech-to-Text (STT) and Text-to-Speech (TTS)
 - Offer personalized task management with secure authentication
@@ -13,7 +13,7 @@ Acting as a digital personal assistant, the application supports personal, acade
 - Improve accessibility for elderly and visually impaired users
 - Maintain data security and privacy with encryption
 
-🚀 Proposed System
+🚀 Proposed System:
 The proposed system overcomes these limitations by offering an intelligent, voice-driven reminder platform with:
 
 - Natural voice command processing using NLP
@@ -51,11 +51,12 @@ The proposed system overcomes these limitations by offering an intelligent, voic
 3. Logic Execution → Dart processes commands  
 4. TTS Output → Audio confirmation and alerts  
 
-👤 Author
+👤 Author:
 Nishanth 
 GitHub: https://github.com/nishanth312005  
 
-📄 License
+📄 License:
 This project is developed for **academic and educational purposes**.
+
 
 
